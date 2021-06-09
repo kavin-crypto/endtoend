@@ -1,7 +1,4 @@
 import pytest
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.support.wait import WebDriverWait
 
 from Datas.testdata import Data
 from Utilities.bassclass import BassClass
