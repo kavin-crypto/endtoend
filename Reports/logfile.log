@@ -1,0 +1,60 @@
+2021-06-09 11:33:31,160 :INFO :test_fill :Name: Sam
+2021-06-09 11:33:31,280 :INFO :test_fill :Email: sam@gmail.com
+2021-06-09 11:33:31,328 :INFO :test_fill :Password: @#@$f
+2021-06-09 11:33:31,379 :INFO :test_fill :Gender: Male
+2021-06-09 11:33:31,405 :INFO :test_fill :DOB: 02032020
+2021-06-09 11:33:32,697 :INFO :test_fill :Name: Jessie
+2021-06-09 11:33:32,697 :INFO :test_fill :Name: Jessie
+2021-06-09 11:33:32,807 :INFO :test_fill :Email: jessie@gmail.com
+2021-06-09 11:33:32,807 :INFO :test_fill :Email: jessie@gmail.com
+2021-06-09 11:33:32,877 :INFO :test_fill :Password: klh^&*
+2021-06-09 11:33:32,877 :INFO :test_fill :Password: klh^&*
+2021-06-09 11:33:32,937 :INFO :test_fill :Gender: Female
+2021-06-09 11:33:32,937 :INFO :test_fill :Gender: Female
+2021-06-09 11:33:33,011 :INFO :test_fill :DOB: 45021998
+2021-06-09 11:33:33,011 :INFO :test_fill :DOB: 45021998
+2021-06-09 11:33:34,252 :INFO :test_fill :Name: gk
+2021-06-09 11:33:34,252 :INFO :test_fill :Name: gk
+2021-06-09 11:33:34,252 :INFO :test_fill :Name: gk
+2021-06-09 11:33:34,340 :INFO :test_fill :Email: gk@gmail.com
+2021-06-09 11:33:34,340 :INFO :test_fill :Email: gk@gmail.com
+2021-06-09 11:33:34,340 :INFO :test_fill :Email: gk@gmail.com
+2021-06-09 11:33:34,404 :INFO :test_fill :Password: @EF%%VG
+2021-06-09 11:33:34,404 :INFO :test_fill :Password: @EF%%VG
+2021-06-09 11:33:34,404 :INFO :test_fill :Password: @EF%%VG
+2021-06-09 11:33:34,472 :INFO :test_fill :Gender: Male
+2021-06-09 11:33:34,472 :INFO :test_fill :Gender: Male
+2021-06-09 11:33:34,472 :INFO :test_fill :Gender: Male
+2021-06-09 11:33:34,503 :INFO :test_fill :DOB: 4021998
+2021-06-09 11:33:34,503 :INFO :test_fill :DOB: 4021998
+2021-06-09 11:33:34,503 :INFO :test_fill :DOB: 4021998
+2021-06-09 11:33:39,638 :INFO :test_mobile :Card title :Blackberry
+2021-06-09 11:33:45,144 :INFO :test_mobile :Country Selected :India
+2021-06-09 11:33:45,292 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:33:45,707 :INFO :test_mobile :Card title :iphone X
+2021-06-09 11:33:45,707 :INFO :test_mobile :Card title :iphone X
+2021-06-09 11:33:51,151 :INFO :test_mobile :Country Selected :Finland
+2021-06-09 11:33:51,151 :INFO :test_mobile :Country Selected :Finland
+2021-06-09 11:33:51,254 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:33:51,254 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:33:51,633 :INFO :test_mobile :Card title :Nokia Edge
+2021-06-09 11:33:51,633 :INFO :test_mobile :Card title :Nokia Edge
+2021-06-09 11:33:51,633 :INFO :test_mobile :Card title :Nokia Edge
+2021-06-09 11:33:57,060 :INFO :test_mobile :Country Selected :San Marino
+2021-06-09 11:33:57,060 :INFO :test_mobile :Country Selected :San Marino
+2021-06-09 11:33:57,060 :INFO :test_mobile :Country Selected :San Marino
+2021-06-09 11:33:57,202 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:33:57,202 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:33:57,202 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:33:57,588 :INFO :test_mobile :Card title :Samsung Note 8
+2021-06-09 11:33:57,588 :INFO :test_mobile :Card title :Samsung Note 8
+2021-06-09 11:33:57,588 :INFO :test_mobile :Card title :Samsung Note 8
+2021-06-09 11:33:57,588 :INFO :test_mobile :Card title :Samsung Note 8
+2021-06-09 11:34:03,011 :INFO :test_mobile :Country Selected :Spain
+2021-06-09 11:34:03,011 :INFO :test_mobile :Country Selected :Spain
+2021-06-09 11:34:03,011 :INFO :test_mobile :Country Selected :Spain
+2021-06-09 11:34:03,011 :INFO :test_mobile :Country Selected :Spain
+2021-06-09 11:34:03,162 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:34:03,162 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:34:03,162 :INFO :test_mobile :Text received from application is Success!
+2021-06-09 11:34:03,162 :INFO :test_mobile :Text received from application is Success!
